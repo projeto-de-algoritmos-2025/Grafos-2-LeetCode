@@ -31,8 +31,8 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 
 | Exercício | Enunciado | Resolução | Dificuldade | Autor da Resolução |
 | :--: | -- | :--: | -- | -- |
-| 1 | Em construção! | | Média | Ana Luiza Hoffmann Ferreira |
-| 2 | Em construção! | | Difícil | Ana Luiza Hoffmann Ferreira |
+| 1 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=problem-list-v2&envId=graph) | [2976.py]() | Média | Ana Luiza Hoffmann Ferreira |
+| 2 | [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=problem-list-v2&envId=graph) | [2577.py]() | Difícil | Ana Luiza Hoffmann Ferreira |
 | 3 | Em construção! | | Média | Edson Gomes da Silva Filho |
 | 4 | Em construção! | | Difícil | Edson Gomes da Silva Filho |
 
