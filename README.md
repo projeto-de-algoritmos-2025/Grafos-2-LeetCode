@@ -19,7 +19,7 @@ Este repositório apresenta resoluções de problemas envolvendo **Grafos**, pro
 
 A plataforma [LeetCode](https://leetcode.com/) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na [Tabela](#exercícios-resolvidos).
 
-As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre grafos, como o *DFS numbering*.
+As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre grafos, como o *Dijkstra*.
 
 ## Sobre a LeetCode
 
