@@ -33,8 +33,8 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | :--: | -- | :--: | -- | -- |
 | 1 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=problem-list-v2&envId=graph) | [2976.py](./Exercício%202976/2976.py) | Média | Ana Luiza Hoffmann Ferreira |
 | 2 | [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=problem-list-v2&envId=graph) | [2577.py](./Exercício%202577/2577.py) | Difícil | Ana Luiza Hoffmann Ferreira |
-| 3 | Em construção! | | Média | Edson Gomes da Silva Filho |
-| 4 | Em construção! | | Difícil | Edson Gomes da Silva Filho |
+| 3 | [1584. Minimun Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | [1584.py](./Exercício%1584/1584.py) | Média | Edson Gomes da Silva Filho |
+| 4 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [1368.py](./Exercício%1368/1368.py) | Difícil | Edson Gomes da Silva Filho |
 
 ## Execução dos códigos na plataforma LeetCode
 
