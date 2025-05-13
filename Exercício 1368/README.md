@@ -6,7 +6,7 @@ A resolução foi aceita pela plataforma, conforme a **Figura 1** abaixo:
 
 <center>
 
-![Resolução 1368](../assets/resolucao1368.png)
+![Resolução 1368](../assets/1368.png)
 
 **Figura 1** - Resolução da questão 1368.
 
