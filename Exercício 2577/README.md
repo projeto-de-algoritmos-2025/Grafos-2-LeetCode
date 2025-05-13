@@ -1,6 +1,6 @@
 # 2577. Design Graph With Shortest Path Calculator
 
-O arquivo [LC2577.py](./LC2577.py) apresenta a resolução do exercício número 2577 sobre grafos da plataforma LeetCode.
+O arquivo [2577.py](./2577.py) apresenta a resolução do exercício número 2577 sobre grafos da plataforma LeetCode.
 
 A resolução foi aceita pela plataforma, conforme a **Figura 1** abaixo:
 
