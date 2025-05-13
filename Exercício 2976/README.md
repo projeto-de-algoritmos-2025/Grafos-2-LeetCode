@@ -1,6 +1,6 @@
 # 2976. Design Graph With Shortest Path Calculator
 
-O arquivo [LC2976.py](./LC2976.py) apresenta a resolução do exercício número 2976 sobre grafos da plataforma LeetCode.
+O arquivo [2976.py](./2976.py) apresenta a resolução do exercício número 2976 sobre grafos da plataforma LeetCode.
 
 A resolução foi aceita pela plataforma, conforme a **Figura 1** abaixo:
 
